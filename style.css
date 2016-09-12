@@ -1,0 +1,56 @@
+body {
+    font-family: Georgia;
+}
+
+.navbar {
+    height: 65px;
+}
+
+.navbar-brand img {
+	width: 300px;
+    margin-top: -7px;
+}
+
+.header-center {
+    text-align: center;
+}
+
+.pull-right {
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+
+.bg-vmesne {
+    background-color: #b9a5cf;
+}
+
+.navbar {
+    background-color: #310e5a;
+}
+
+h1 {
+    color: #310e5a;
+}
+
+h2 {
+    color: #310e5a;
+}
+
+h3 {
+    color: #310e5a;
+}
+
+.center-slika {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.center-slika img {
+    width: 200px;
+    margin-top: -30px;
+}
+
+h6 {
+    text-align: center;
+}
+
